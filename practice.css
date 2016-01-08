@@ -1,0 +1,30 @@
+h1 { 
+	color: blue;
+	}
+	table {
+		color: green;
+	}
+h2 {
+	color: green;
+}
+
+h3 {
+	color: red;
+}
+p {
+    font-family: "Times New Roman", Times, serif;
+} 
+
+#footidems {
+	font-size: 20pt;
+}
+
+.firsth1{
+	font-style: Verdana;
+}
+
+p {
+     background-image: <div style="baackground-image:url(http://unrestrictedstock.com/wp-content/uploads/falling-snowflakes-free-stock-vector-pattern.jpg;"></div>
+
+     background-repeat: no-repeat;
+ } 
